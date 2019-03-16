@@ -117,10 +117,8 @@ public class AdminView extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\logo.png")); // NOI18N
         jLabel1.setText("jLabel1");
 
-        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\orange11.jpg")); // NOI18N
         jLabel6.setText("jLabel6");
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
@@ -180,10 +178,8 @@ public class AdminView extends javax.swing.JFrame {
         jLabel13.setFont(new java.awt.Font("Tahoma", 1, 13)); // NOI18N
         jLabel13.setText("VILLE :");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\logo.png")); // NOI18N
         jLabel2.setText("jLabel2");
 
-        jLabel5.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\orange11.jpg")); // NOI18N
         jLabel5.setText("jLabel5");
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
@@ -255,10 +251,8 @@ public class AdminView extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\logo.png")); // NOI18N
         jLabel3.setText("jLabel3");
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\orange11.jpg")); // NOI18N
         jLabel7.setText("jLabel7");
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
@@ -327,10 +321,6 @@ public class AdminView extends javax.swing.JFrame {
 
         jLabel15.setFont(new java.awt.Font("Tahoma", 1, 13)); // NOI18N
         jLabel15.setText("PRIX :");
-
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\logo.png")); // NOI18N
-
-        jLabel16.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dell\\Desktop\\orange11.jpg")); // NOI18N
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
         jPanel6.setLayout(jPanel6Layout);
